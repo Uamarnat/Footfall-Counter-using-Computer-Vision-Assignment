@@ -1,8 +1,12 @@
 # Footfall-Counter-using-Computer-Vision-Assignment
-The assignment was to build an AI based footfall counter that can detect, track, and count people as they enter and exit a specific area in a video, such as a doorway or hallway. In addition to counting, the system also highlights the regions inside that area where the most movement occurs using a simple activity heatmap.
+The assignment was to build an AI based footfall counter that can detect, track, and count people as they enter and exit a specific area in a video, such as a doorway or hallway. In addition to counting, the system also highlights the regions inside that area where the most movement occurs using a simple activity heatmap.  
 
-<img src="Screenshot1.png" alt="Screenshot" width="600">
-[Demo Video](Demo_Video.webm)
+Steps-
+Run the script.  
+Draw the ROI manually with mouse, press space.  
+Example video is shown in Demo_Video.webm.  
+
+<img src="Screenshot1.png" alt="Screenshot" width="600">  
 
 Tools-  
 OpenCV- pip install opencv-python  
